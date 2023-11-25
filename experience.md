@@ -5,7 +5,7 @@ title: Experience
 
 ### Tapas Services
 **System Software Engineer** [July 2023 - present]
-- Developing hardware + software platform solutions for Industry 4.0 automation.
+- Developing hardware + software platform solutions for Industry 4.0 automation.\\
     **Customer: Steel OEM’s and Industry 4.0 IOT System Integrators**
     - DevOps and CICD framework for IOT sensor development on private cloud.
         - Build CICD framework and establish a testing environment using GitLab within a private cloud for IoT sensor applications.
