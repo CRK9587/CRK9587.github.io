@@ -8,7 +8,7 @@ Undergraduate Final Year Major Project [Jan 2023 - April 2023]\\
 **Raspberry-Pi powered leaf disease detection for Crop Sustainability.**
 - Integrated a solution for plant leaf disease detection powered by a CNN model and Raspberry Pi.
 - Utilized a hybrid dataset that analyzes both pre-trained and real-time images.
-- Additionally, developed a Kotlin-based mobile app for displaying real-time images and providing live leaf disease predictions to users, while also utilizing Firebase and ThingSpeak for image storage and other data collection from the Raspberry Pi.\\
+- Additionally, developed a Kotlin-based mobile app for displaying real-time images and providing live leaf disease predictions to users, while also utilizing Firebase and ThingSpeak for image storage and other data collection from the Raspberry Pi.
 
 **GitHub Repo Link:** [Pileaf](https://github.com/CRK9587/PiLeaf)
 
