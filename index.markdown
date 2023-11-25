@@ -5,3 +5,7 @@
 title: Home
 layout: page
 ---
+
+## Welcome! I’m Chinmay. 
+
+I’m an ECE undergrad with expertise in Embedded System Software, Application Development and Devops Deployment with working knowledge of AI/Ml based application development
